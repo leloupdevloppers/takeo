@@ -1,0 +1,35 @@
+$nomention
+$title[INFOS du bot Takeo]
+
+$description[
+🎉 **Nombres de serveurs : 
+$serverCount **
+
+🎀**Nombre d'utilisateurs : 
+$allMembersCount **
+
+🎁**Commandes :
+$commandsCount**
+
+<:Takeo:750293948890742804>__**Groupe Takeo **__
+
+Créateur :<@700374770276892808>
+
+📁__**Dévellopement**__
+
+Dévellopé avec DBFD (DBScript) 
+
+**ℹ️__Version__**
+
+$getVar[version]
+
+**🕒__Uptime__**
+
+Le bot est connecté depuis $uptime 
+
+**🧾__Statut__**
+
+Statut : <:statut_green:754630191715713067>]
+$footer[Takeo, by TakeBot Inc]
+$color[00ff00]
+$image[https://cdn.discordapp.com/attachments/750295352778686484/770049016293359646/Image_Takeo_.png]
