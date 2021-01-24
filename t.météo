@@ -1,0 +1,6 @@
+$nomention
+$title[$randomText[⛅;☁️;❄️;⚡;☔;☀️] Le temps à $message]
+$image[https://wttr.in/$replaceText[$message; ;-;-1].png?m]
+$footer[$username]
+$addTimestamp
+$argsCheck[>1;Tu doit indiquer le nom de ta ville]
