@@ -1,0 +1,11 @@
+$useChannel[$mentionedChannels[1]]
+$nomention
+$addReactions[🎉]
+$color[#FF000]
+$title[🎉Giveaway🎉]
+$footer[$username Started the giveaway at $hour:$minute Today]
+$description[🎉Giveaway time🎉
+Gagnant : <@$randomUser>
+Lot : **$message[2] $message[3] $message[4] $message[5]**]
+$onlyIf[$mentionedChannels[1]!=;Mentionne un salon ]
+$onlyIf[$mentionedChannels[1]!=;Message d'erreur]
