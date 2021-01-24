@@ -1,0 +1,7 @@
+$nomention
+$deletecommand 
+$authorIcon[]
+$description[]
+$footer[ $username vous souaithe la bienvenue sur $serverName[$guildID] ! ]
+$footerIcon[$authorAvatar]
+$color[00ff00]
