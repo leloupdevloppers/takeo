@@ -1,0 +1,19 @@
+$nomention
+
+$onlyIf[$checkContains[$message[2];+;*;/;÷;x;-]==true;<a:Attention:776810616425152522> | Erreur de syntaxe | <a:Attention:776810616425152522>]
+
+$title[Calculateur]
+
+
+$onlyIf[$isNumber[$message[1]]==true;$message[1] n'est pas un nombre !]
+
+$onlyIf[$isNumber[$message[3]]==true;$message[3] n'es pas un nombre!]
+
+$color[$randomText[65280;16711680;C8C864;47eabc;df2e90;543683;264bec;d20057;515e63;497147;376034;087264;4ca6ff;460a18;faebd7;eed330;cb4bca;fffff2;fffc3c;b507db;ff8d00;00ff38;ff00e7;98bdf0;daf7f8;b9e0d9;debcb0;ffb3b3;b8d9d0;83d0f2;552f2e;fff380;0000ff;ff4d00;afb169;afaf0a;ffffff;c7ae71;a77c86;17264f;cbffe8;c7bbc9;debcb0;010649;feebe6]]
+
+$onlyIf[$message!=;<a:Attention:776810616425152522> | Entre 2 nombres pour l'opération !]
+
+$description[
+$message[1] $message[2] $message[3] = **$numberSeparator[$$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$message[2];+;sum;1];-;sub;1];*;multi;1];x;multi;1];/;divide;1];÷;divide;1][$message[1];$message[3]];,]**]
+
+$argsCheck[3;<a:Attention:776810616425152522> | Entre des donnes pour faire l'opération !]
