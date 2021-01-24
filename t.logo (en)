@@ -1,0 +1,9 @@
+$nomention
+$argsCheck[>1;❌ | Enter text from English characters to make a logo out of it! Use: `t.logo Text`]
+$onlyIf[$checkContains[$toLowercase[$message];a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z;1;2;3;4;5;6;7;8;9;0]==true;The text must not contain any extraneous characters other than letters!]
+$title[Here's your logo.]
+$embeddedURL[https://gdcolon.com/tools/gdlogo/img/$replaceText[$message; ; %20;-1]]
+$image[https://gdcolon.com/tools/gdlogo/img/$replaceText[$message; ; %20;-1]]
+$footerIcon[$authorAvatar]
+$footer[Requested by $username]
+$color[$random[1000;999999]]
