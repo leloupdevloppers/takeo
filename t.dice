@@ -1,0 +1,6 @@
+$nomention
+$title[ 🎲 Le dé est tomber sur : `$randomText[1;2;3;4;5;6;7;8;9]`]
+$footerIcon[$authorAvatar]
+$footer[🎲]
+$color[00ff00]
+$addReactions[$randomText[🎲;🎲;🎲;🎲;🎲;🎰;🎲]]
