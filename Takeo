@@ -1,0 +1,19 @@
+# Takeo
+# Takeo Bot Open Source BDFD 
+# Librairie : BDScript
+
+# Tutos dbfd :
+
+# Créer une commande ban ;
+
+$nomention 
+$ban[$mentionned[1]
+$onlyAdmin[Require permission **ADMINISTRATOR**]
+
+# Créer une commande say ( le bot écrit votre message et supprime le votre ) ;
+
+$nomention
+$deletecommand 
+$message
+# facultatif
+$onlyAdmin[Require permission **ADMINISTRATOR**]
