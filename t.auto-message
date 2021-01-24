@@ -1,0 +1,3 @@
+$nomention
+$useChannel[$mentionedChannels[<;yes]]
+$repeatMessage[10;$message]
