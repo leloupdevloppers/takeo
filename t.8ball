@@ -1,0 +1,7 @@
+$title[Question 🧠]
+$description[$message 🤔]
+$addField[Réponse;$randomText[Oui;Non;Certainement;Peut être;Jamais!;J'y crois pas trop;Tu y croyais vraiment ???]]
+$nomention
+$color[#56FFE7]
+$deletecommand
+$argsCheck[>1;pose moi une question ]
