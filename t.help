@@ -1,0 +1,44 @@
+$nomention
+$title[Voici mes commandes :]
+$description[
+Notes :
+Prefix : `t.`
+Commandes : `$commandsCount`
+
+
+⇒ 🔗__Invitations__
+ 
+<a:emoji_43:767660246192881685> [M'inviter](https://discord.com/oauth2/authorize?client_id=750257497637388309&scope=bot&permissions=2147483647) ¦ [Serveur support](https://discord.gg/brM3APy)<:boy:767659891384778792>
+
+⇒🔞__NSFW__ :
+
+<a:emoji_43:767660246192881685>`t.boobs`,`t.neko`, `t.nsfw`
+
+⇒💰__Économie :__
+
+<a:emoji_43:767660246192881685> `t.economie-help` 
+
+⇒📃__Infos du serveur :__
+
+<a:emoji_43:767660246192881685> `t.serveur-help`
+
+
+⇒🎮__Fun :__
+
+<a:emoji_43:767660246192881685> `t.fun-help`
+
+
+⇒🤖__Bot :__
+
+<a:emoji_43:767660246192881685> `t.bot-help`
+
+Statut du bot : 
+<:statut_green:754630191715713067>
+
+]
+$footer[Demandé par $username - Takeo, by TakeBot Inc ]
+$color[03ff38]
+$addTimestamp
+$botTyping
+$image[https://cdn.discordapp.com/attachments/750295352778686484/770049016293359646/Image_Takeo_.png]
+$dm
