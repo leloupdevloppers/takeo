@@ -1,0 +1,10 @@
+$nomention
+$title[$username met à la poubelle $username[$mentioned[1]]]
+$image[https://api.alexflipnote.dev/trash?face=$authorAvatar&trash=$userAvatar[$mentioned[1]]]
+$color[00ffdb]
+$argsCheck[1;Mentionnez quelqu'un que vous voulez mettre à la poubelle !]
+$onlyIf[$mentioned[1]!=;Mention someone!]
+$footer[Requested by $username ]
+$addTimestamp
+$botTyping
+$suppressErrors[Veuillez réessayer plus tard.]
