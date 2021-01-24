@@ -1,0 +1,10 @@
+$nomention
+$deletecommand 
+$argsCheck[>1;❌ Veuillez mentionner un utilisateur t. avatar {@user}]$​image[$​userAvatar[$​replaceText[$​replaceText[*$​mentioned[<]*;**;$​authorID;1];*$​mentioned[<]*;$​mentioned[<];1]]?size=2048]
+$​title[🖼 Avatar demandé par $username 📸]
+$​description[[Télécharger l’avatar]($userAvatar[$​replaceText[$​replaceText[*$​mentioned[<]*;**;$​authorID;1];*$​mentioned[<]*;$​mentioned[<];1]])]
+$onlyIf[$guildID!=;❌ Mes commande sont désactivé en dm]
+$addTimestamp
+$color[FFFA80]
+$footerIcon[$authorAvatar]
+$footer[$username] 
