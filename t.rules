@@ -1,0 +1,42 @@
+$nomention
+$deletecommand
+$onlyAdmin[]
+$title[***RÈGLEMENT*** ]
+$description[
+Bonjour à tous.
+Si vous êtes ici c'est que vous voulez lire le règlement.
+Le voici :
+
+Hey, voici quelques règles importantes à respecter :
+
+**Textuel :**
+- Pas d'insultes.
+- Un respect total envers les tiers.
+-Aucun comportement choquant comme pornographique, gore,...
+- Aucune publicité.
+- Respect du nom du salon (pas de screenshots dans #général).
+- Ne pas spam.
+- Ne pas spoiler, que ce soit fake ou pas.
+- Ne pas ping (sauf si problèmes).
+- Votre pseudonyme doit être mentionnable et ne doit pas être choquant, raciste ni rien d'autre dans le même genre.
+- Votre photo de profil ne doit pas être choquante, raciste ni autre chose dans le même genre.
+- Choisissez vos pseudonymes de manière à ce que l'on ne vous confonde pas avec l'un des membres du staff.
+- Restez courtois.
+- Ne pas demander d'argent.
+- Interdit de troller de manières abusives.
+- Interdit de parler de hacks/glitches ou autres méthodes nuisibles au système/jeu.
+- Pas d'échanges de comptes.
+- Respectez le règlement de Discord : https://discord.com/terms
+**Vocaux :**
+- Ne pas demander d'argent.
+- Restez courtois.
+- Ne pas utiliser de déformateurs de voix.
+- Ne pas couper la parole.
+- Ne pas spoiler, que cela soit fake ou non.
+- Ne pas crier.
+- Aucune publicité.
+- Pas d'insultes]
+$color[00ff00]
+$thumbnail[$serverIcon]
+$footer[Règlement a respecter! ]
+$addReactions[✅;❌]
