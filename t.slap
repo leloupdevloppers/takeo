@@ -1,0 +1,6 @@
+$nomention
+$argsCheck[>1;<a:Attention:776810616425152522> | Mentionne quelqun que tu veux taper.]
+$color[$randomText[FF0000;00BFFF]]
+$title[**Tapote**]
+$description[ 🖐 <@$authorID> tape <@$mentioned[1]> qui a peur  ]
+$image[https://media1.giphy.com/media/mEtSQlxqBtWWA/giphy.gif?cid=19f5b51a5d0007c26844576955890a26&rid=giphy.gif] 
