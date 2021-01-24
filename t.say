@@ -1,0 +1,8 @@
+$nomention
+$allowMention
+$onlyIf[$mentionedRoles[1]==;<a:Attention:776810616425152522> | Ne Mentionne pas de rôles]
+$onlyIf[$checkContains[$message;everyone;here]==false;<a:Attention:776810616425152522> | Pas de memtions ici ! ]
+$argsCheck[>1;Tu dois écrire quelque chose que poura dire le Bot ]
+$message
+$deletecommand
+$onlyIf[$guildID!=;]
