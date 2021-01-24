@@ -1,0 +1,10 @@
+$nomention
+$deletecommand 
+$title[Donald Trump a Tweet]
+$image[https://api.no-api-key.com/api/v2/trump?message=$replaceText[$message; ;%20;-1]]
+$color[666]
+$argsCheck[>1;Ce que vous voulez tweeter par Donald Trump.]
+$footer[]
+$addTimestamp
+$botTyping
+$suppressErrors[Une erreur s'est produite; Veuillez réessayer plus tard.]
