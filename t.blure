@@ -1,0 +1,7 @@
+$nomention
+$title[BLUR AVATAR $username[$mentioned[1;yes]]]
+$color[FFFFFF]
+$footer[Request By $username]
+$image[https://useless-api.vierofernando.repl.co/blur?image=$userAvatar[$mentioned[1;yes]]]
+
+$onlyIf[$guildID!=;]
