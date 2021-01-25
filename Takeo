@@ -7,7 +7,7 @@
 # Créer une commande ban ;
 
 $nomention 
-$ban[$mentionned[1]
+$ban[$mentionned[1]]
 $onlyAdmin[Require permission **ADMINISTRATOR**]
 
 # Créer une commande say ( le bot écrit votre message et supprime le votre ) ;
